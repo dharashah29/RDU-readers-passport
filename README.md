@@ -2,7 +2,7 @@
 
 Interactive, printable literary passport booklet created for the **Raleigh–Durham Readers Book Club**'s *"Around the World in Books"* 2026 reading series.
 
-🔗 **Create Your Passport:** `https://<your-github-username>.github.io/<repo-name>/`
+🔗 **Create Your Passport:** `https://dharashah29.github.io/RDU-readers-passport/`
 
 ---
 
